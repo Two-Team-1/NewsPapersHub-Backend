@@ -22,7 +22,7 @@ import com.NewsPaperHub.Service.RegisterService;
 
 @CrossOrigin(origins = "*")
 @RestController
-@RequestMapping("/Loginpage")
+@RequestMapping("/api/Loginpage")
 public class LoginpageController {
 
     @Autowired
